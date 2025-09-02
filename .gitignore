@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+*/venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Data (optional: uncomment if you don’t want big data files in Git)
+# data/*.csv
+# data/*.zip
